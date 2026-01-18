@@ -74,6 +74,5 @@ if __name__ == "__main__":
         server_name=args.host,
         server_port=args.port,
         favicon_path=os.path.join(root_dir, "assets/hivision_logo.png"),
-        root_path=args.root_path,
-        show_api=False,
+        root_path=args.root_path
     )
