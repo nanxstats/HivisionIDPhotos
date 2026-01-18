@@ -23,8 +23,6 @@ build
 test/temp/*
 !test/temp/.gitkeep
 
-.python-version
-
 # Ignore .png and .jpg files in the root directory
 /*.png
 /*.jpg
